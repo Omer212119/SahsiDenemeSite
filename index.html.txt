@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basit bir HTML metni başlığı</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>HTML, Web'in dilidir.</h1>
+    <P>Bu metnin ilk paragrafıdır.</p>
+    <p>Bu da ikinci paragraftır.</p>
+  </body>
+</html>
